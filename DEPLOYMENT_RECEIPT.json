@@ -1,0 +1,14 @@
+{
+  "project": "aristarchus-of-samos-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "5LQ8s9oFQ9vEiHC6F2emT3vpEfoHRCZkUjgVCMydmGro",
+  "vault_account": "7mhx9xmcs8LQMUoejSJ8feRuYW37Fn6yqkCYVbAefYQz",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2UGwmS2Hx4VDExtJdhTsKC4JuwTKWD2Xhy35Cv43KUhsn9xLuccsNe5AGmq9baAtnZTVbHhVLMw1fXaFsgw22vyd",
+  "account_tx": "3qzr5irPGVeGWxAjonxQ2R1BivL6y2v3x3p3NjprD1T2iZsPgYWthe2sMHZX5j394vLW8au2W3HamXw1QYTsJChY",
+  "mint_tx": "3dxwUaZVsoFaaxUc7hSjzXo6e4pS2qUmC8KR9mTi4A8e3JefzxXvyXviVXnmVzqmB3XhwKpPo1TTBr7RCBDCD4Gm",
+  "solana_explorer_mint": "https://explorer.solana.com/address/5LQ8s9oFQ9vEiHC6F2emT3vpEfoHRCZkUjgVCMydmGro?cluster=devnet",
+  "timestamp": "2026-10-26 16:19:07 UTC"
+}
